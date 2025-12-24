@@ -1,0 +1,1 @@
+# Practice problem: Fixed window

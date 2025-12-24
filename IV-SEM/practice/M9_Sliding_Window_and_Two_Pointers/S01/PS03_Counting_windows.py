@@ -1,0 +1,1 @@
+# Practice problem: Counting windows
