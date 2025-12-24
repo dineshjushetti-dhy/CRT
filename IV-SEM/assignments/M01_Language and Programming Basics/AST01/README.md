@@ -1,7 +1,7 @@
 # Language & Programming Basics – Assignment 01
 
 ## Objective
-Solve the given problem using Python.
+Solve the given problem using Python
 
 ## Instructions
 1. Write your solution only in `task.py`
