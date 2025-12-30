@@ -1,5 +1,5 @@
 def sum_of_digits(n: int) -> int:
-    """Return the sum of the digits of the given integer n."""
+    """Return the sum of the digits of the given integer  n."""
     total = 0
     while n > 0:
         digit = n % 10
